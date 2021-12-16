@@ -12,7 +12,7 @@
     "url": "https://github.com/AlexR0v/weather-cli"
   },
   "scripts": {
-    "test": "node weather.js"
+    "start": "node weather.js"
   },
   "author": "alexr0v",
   "license": "ISC",
